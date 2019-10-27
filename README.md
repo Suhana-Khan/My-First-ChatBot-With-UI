@@ -7,13 +7,14 @@ Front End:PHP HTML and CSS
 
 Software Requirements:
 XAMPP Server
-Notepad/Notepad++/VisualStudio/Any Editor of your choice
+
+Editor: Notepad/Notepad++/VisualStudio/Any Editor of your choice
 
 Platform:Mozilla Firefox
 
 Path:C:/xampp/htdocs
 
-Following are Some Steps to create your own simple chatbot..
+Follow Some Steps to create your own simple chatbot..
 
 Step1. Download XAMPP server from the chrome(Any latest version)
 
@@ -27,7 +28,7 @@ Step2. Create the Database and required Tables using phpMySQL.
        path:localhost/phpMyAdmin
        In this you can create the database and their tables.please find the screenshot file that i have given for reference 
       
-Step3.As shown in the screenshot refer the attribute names in the table that i have given.create it in the same way.
+Step3. As shown in the screenshot refer the attribute names in the table that i have given.create it in the same way.
 
 
          a.create a Database with name chatbot(you can select any name and mension it in the db.php file).
